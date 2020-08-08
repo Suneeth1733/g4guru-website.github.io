@@ -6,3 +6,8 @@
 @media(max-width:767px){.home-section p {
     margin-top: -65px;
 }}
+@media(max-width:360px){
+    .header-section .navbar-brand img {
+        width: 220px;
+    }
+}
