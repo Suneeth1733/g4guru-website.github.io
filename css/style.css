@@ -1,0 +1,8 @@
+.bg-red{background-color: red;}
+.navbar-toggler-icon{color: #fff;font-size: 35px;}
+.youtube-logo {margin-top: -68px;}
+.a-text {margin-top: -8em;}
+.bg-darkred{background-color: rgb(128, 0, 0);}
+@media(max-width:767px){.home-section p {
+    margin-top: -65px;
+}}
